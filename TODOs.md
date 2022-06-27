@@ -1,0 +1,47 @@
+# 25.06.2022 Das Gepräch mit Martin und Negoslav
+
+## 1). Definition der Konfigurations-Schnittstelle für
+
+<https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/web-application.html>
+<https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/restful-microservices.html>
+<https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/stream-processing.html>
+<https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/mobile-backend.html>
+
+Als Grundlage können die vorhandene CDK L3-Konstrukte genommen werden. Es kann zunächst mit der Schnitstelle bzw. anschliessende Implementierung
+für <https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/restful-microservices.html> angefangen werden.
+Das ist die Aufgabe für Martin.
+
+Status:
+
+## 2). Beantwortung der Frage: welche Addons sind im AWS Serverless Bereich wichtig? Die Beispiele für Addons sind im
+
+<https://github.com/aws-quickstart/cdk-eks-blueprints/tree/main/lib/addons> zu sehen.
+Das ist die Aufgabe für Martin.
+
+Status:
+
+## 3). Beantwortung der Frage: welche Resource Providers sind im AWS Serverless Bereich wichtig? Die Beispiele für Resource Providers sind im
+
+<https://github.com/aws-quickstart/cdk-eks-blueprints/tree/main/lib/resource-providers> zu sehen.
+Das ist die Aufgabe für Martin.
+
+Status:
+
+## 4). Umsetzung der Kommandos aus Makefile in die äquivalente Projen-basierte Kommandos
+
+Die Make-Kommandos sind hier <https://github.com/aws-quickstart/cdk-eks-blueprints/blob/main/Makefile> zu sehen
+Das ist die Aufgabe für Martin.
+
+Status:
+
+## 5). Translation der Resource Providers aus <https://github.com/taimos/cdk-serverless> nach <https://github.com/TexasArizona/cdk-serverless-blueprints>
+
+Das ist die Aufgabe für Negoslav
+
+Status:
+
+## 6). Translation der Addons aus <https://github.com/taimos/cdk-serverless> nach <https://github.com/TexasArizona/cdk-serverless-blueprints>
+
+Das ist die Aufgabe für Negoslav
+
+Status:
